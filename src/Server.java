@@ -1,5 +1,6 @@
 import java.io.*;
 import java.net.*;
+//this is just a basic server - no relation to router info yet
 
 public class Server {
     private Socket s = null;

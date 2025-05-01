@@ -1,5 +1,7 @@
 import javax.swing.*;
 
+//this is a testing playground for GUI windows with Swing.
+
 public class SwingGUI extends JFrame{
     JFrame frame = new JFrame("Router Details");
     SwingGUI(){
